@@ -1,0 +1,33 @@
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+  
+}
+body{
+  background-color: powderblue;
+
+}
+
+h1{
+  color:black;
+}
+h2{
+  color: #33DDFF;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+
+
+  width: 5%;
+}
+div{
+  background-color: #ABD9FF;
+}
+.circular{
+  border-radius: 100%;
+}
