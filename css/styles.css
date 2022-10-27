@@ -1,9 +1,26 @@
 .myDiv {
-  border: 5px outset red;
+  background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+  border: 5px outset white;
   background-color: lightblue;
   text-align: center;
-  
+
+
 }
+.newdiv{
+
+  background-color:grey;
+  border:10px outset white;
+
+}
+
+.new{
+  background-color: lightyellow;
+height:100px;
+positio:fixed;
+
+}
+.
+
 body{
   background-color: powderblue;
 
@@ -26,7 +43,6 @@ hr{
   width: 5%;
 }
 div{
-  background-color: #ABD9FF;
 }
 .circular{
   border-radius: 100%;
