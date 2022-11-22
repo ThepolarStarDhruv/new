@@ -4,6 +4,8 @@
   background-color: lightblue;
   text-align: center;
     scroll-behavior: auto;
+  height: 100%;
+  width:100%;
 
 
 }
