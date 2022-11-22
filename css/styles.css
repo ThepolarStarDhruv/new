@@ -3,6 +3,7 @@
   border: 5px outset white;
   background-color: lightblue;
   text-align: center;
+    scroll-behavior: auto;
 
 
 }
